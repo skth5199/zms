@@ -7,7 +7,7 @@ Features:
 * Manager portal
 * Staff portal
 * Vet portal
-* Statistical vizualization of Animal data
+* Statistical visualization of Animal data
 
 
 I encourage zoos to simply download the software and start using it to manage their zoo.
